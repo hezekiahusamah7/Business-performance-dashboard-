@@ -10,3 +10,6 @@ Purpose: “A Power BI dashboard visualizing business performance metrics.”
 Tools used: Power BI, DAX, Excel data source.
 
 Key visuals: KPIs, trend charts, slicers.
+
+Acknowledgment
+Special thanks to **TS Academy** for their courses and mentorship that helped me build this Power BI dashboard
